@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CarAdvertisementApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn">Bejelentkezés</string>
+    <string name="felhasznalo_hint">Felhasználó név</string>
+    <string name="password_hint">Jelszó</string>
 </resources>
